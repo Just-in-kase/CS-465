@@ -61,6 +61,10 @@ private getStuff(): void {
   return this.authentication.isLoggedIn(); 
   } 
 
+  public refreshTrips(): void {
+  this.getStuff();
+}
+
   ngOnInit(): void {
     console.log('ngOnInit');
     this.getStuff();
