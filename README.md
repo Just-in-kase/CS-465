@@ -27,12 +27,12 @@ The final iteration includes JWT-based authentication for the admin application.
 
 <h2><strong>Technologies Used In This Project</strong></h2>
 
-MongoDB
-Express.js
-Angular
-Node.js
-Mongoose
-JSON Web Tokens (JWT)
+MongoDB<br>
+Express.js<br>
+Angular<br>
+Node.js<br>
+Mongoose<br>
+JSON Web Tokens (JWT)<br>
 Postman
 
 
